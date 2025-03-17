@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Anna! 👋  
 
-<!--
-**fomi-ann/fomi-ann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Software Developer | Learning React & Web Development
+📍 Based in Estonia | Student at TTHK
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+I'm a **junior software developer** passionate about learning new technologies and building interactive applications.
+Currently, I'm diving deep into **React** by following tutorials and working on hands-on projects.
+
+- 🌱 Learning **React, JavaScript, and front-end development**
+- 🎯 Interested in **web apps, UI/UX, and data**
+- 📚 Documenting my progress and sharing what I build
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ann-fomina/)
+- 📩 ann.fomi77@gmail.com
+- 📝 Check out my GitHub repositories!
+
+---
+
+🧙 Casting "Code Better" – it's super effective!
+
