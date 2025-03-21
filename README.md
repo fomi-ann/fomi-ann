@@ -16,5 +16,5 @@ Currently, I'm diving deep into **React** by following tutorials and working on 
 
 ---
 
-🧙 Casting "Code Better" – it's super effective!
+🐙   Git good or git out.   🐱
 
